@@ -7,8 +7,8 @@
 A Python-based analysis of e-commerce orders to evaluate sales growth, category performance, product-level return risks, and opportunities for the next planning cycle.
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Data%20Analysis-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-11557C?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-E--commerce%20Analytics-34495E?style=flat-square)
 
 </div>
